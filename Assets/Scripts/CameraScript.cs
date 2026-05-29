@@ -17,4 +17,7 @@ public class CameraScript : MonoBehaviour
         pos.y = Red.transform.position.y;
         transform.position = pos;
     }
+
+// Explicación sencilla: la cámara se pega al jugador. Si quieres que siga con suavidad,
+// reemplaza la asignación directa por `Vector3.Lerp` o `SmoothDamp`.
 }
