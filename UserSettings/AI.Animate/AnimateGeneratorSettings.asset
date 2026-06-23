@@ -18,20 +18,35 @@ MonoBehaviour:
         serializedData:
         - key: 0
           value:
+<<<<<<< Updated upstream
             rid: 2071275962949435392
         - key: 1
           value:
             rid: 2071275962949435393
+=======
+            rid: 1658972250381221894
+        - key: 1
+          value:
+            rid: 1658972250381221895
+>>>>>>> Stashed changes
       previewSettings:
         sizeFactor: 1
   references:
     version: 2
     RefIds:
+<<<<<<< Updated upstream
     - rid: 2071275962949435392
       type: {class: ModelSelection, ns: Unity.AI.Animate.Services.Stores.States, asm: Unity.AI.Animate}
       data:
         modelID: 
     - rid: 2071275962949435393
+=======
+    - rid: 1658972250381221894
+      type: {class: ModelSelection, ns: Unity.AI.Animate.Services.Stores.States, asm: Unity.AI.Animate}
+      data:
+        modelID: 
+    - rid: 1658972250381221895
+>>>>>>> Stashed changes
       type: {class: ModelSelection, ns: Unity.AI.Animate.Services.Stores.States, asm: Unity.AI.Animate}
       data:
         modelID: 
