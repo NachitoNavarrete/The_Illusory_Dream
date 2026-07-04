@@ -1,0 +1,41 @@
+{
+    "asset": "eae6601b5f30d8c41a2d11a0ccb27912",
+    "fileName": "019ef654-b14e-777e-bfa9-5f2e75ccc30d.mp4",
+    "prompt": "Giant industrial robot boss shooting animation, arms extending, core glowing brightly, 16-bit pixel art style, transparent background.",
+    "negativePrompt": "",
+    "model": "video-seedance-1-pro",
+    "modelName": "Seedance 1 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Spritesheet",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 9,
+                "doodle": [],
+                "label": "First",
+                "strength": 1.0,
+                "invertStrength": false,
+                "assetReferenceGuid": "11ac18ba06a6d894986bb46d0cca5cad",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 0,
+        "height": 0
+    },
+    "spriteSheet": true,
+    "duration": 5.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

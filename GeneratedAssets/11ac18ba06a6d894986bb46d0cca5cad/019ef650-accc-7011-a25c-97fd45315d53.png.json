@@ -1,0 +1,31 @@
+{
+    "asset": "11ac18ba06a6d894986bb46d0cca5cad",
+    "fileName": "019ef650-accc-7011-a25c-97fd45315d53.png",
+    "prompt": "A giant industrial robot boss, heavy metallic armor, rusted orange and dark grey textures, glowing cyan core and eyes, floating/flying capability with thrusters, 16-bit pixel art style, high contrast, on a transparent background.",
+    "negativePrompt": "",
+    "model": "gpt-image-1",
+    "modelName": "GPT Image 1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

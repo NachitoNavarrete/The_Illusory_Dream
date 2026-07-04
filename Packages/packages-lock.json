@@ -75,7 +75,11 @@
       }
     },
     "com.unity.ai.assistant": {
+<<<<<<< Updated upstream
       "version": "2.6.0-pre.1",
+=======
+      "version": "2.13.0-pre.2",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {

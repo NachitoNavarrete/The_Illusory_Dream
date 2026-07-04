@@ -1,0 +1,41 @@
+{
+    "asset": "e6a7b075011ef38478302e1baacfcb17",
+    "fileName": "019f1f50-d6c2-7fb4-a673-53e3c6991ccb.mp4",
+    "prompt": "Robot boss melee slam animation, lifting arms high and slamming the ground, creates a shockwave, facing right, industrial ruin style.",
+    "negativePrompt": "",
+    "model": "video-seedance-1-pro",
+    "modelName": "Seedance 1 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Spritesheet",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 9,
+                "doodle": [],
+                "label": "First",
+                "strength": 1.0,
+                "invertStrength": false,
+                "assetReferenceGuid": "f5f9d26435367624a84d17b76231e58e",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 0,
+        "height": 0
+    },
+    "spriteSheet": true,
+    "duration": 5.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

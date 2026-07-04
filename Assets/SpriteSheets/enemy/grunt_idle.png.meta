@@ -54,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -145,19 +145,19 @@ TextureImporter:
       name: grunt_idle_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 0
-        width: 19
-        height: 18
+        width: 26
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c71118b7fa46aa220800000000000000
+      spriteID: b2faaf17032d0f94bb9aeb73e588b480
       internalID: 2497919648184471932
       vertices: []
       indices: 
@@ -167,19 +167,19 @@ TextureImporter:
       name: grunt_idle_1
       rect:
         serializedVersion: 2
-        x: 31
+        x: 26
         y: 0
-        width: 19
-        height: 18
+        width: 26
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30e8866c794e72ba0800000000000000
+      spriteID: a2a18d7a62b955c498d5f2f6d66940cc
       internalID: -6113666628612223485
       vertices: []
       indices: 

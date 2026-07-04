@@ -1,0 +1,41 @@
+{
+    "asset": "bdf31d4f845eeb143adea0ee89aef398",
+    "fileName": "019f1f50-ff56-714b-b7bf-72e79ce6fa20.mp4",
+    "prompt": "Robot boss idle animation, breathing movement, subtle mechanical shifts, facing right, industrial ruin style.",
+    "negativePrompt": "",
+    "model": "video-seedance-1-pro",
+    "modelName": "Seedance 1 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Spritesheet",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 9,
+                "doodle": [],
+                "label": "First",
+                "strength": 1.0,
+                "invertStrength": false,
+                "assetReferenceGuid": "f5f9d26435367624a84d17b76231e58e",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 0,
+        "height": 0
+    },
+    "spriteSheet": true,
+    "duration": 5.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

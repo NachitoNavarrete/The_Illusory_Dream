@@ -1,0 +1,31 @@
+{
+    "asset": "084fda5ac8f75a646aaa93e36d3b3cbe",
+    "fileName": "019ef654-2b05-77ed-a3fe-4abb7793e0b3.png",
+    "prompt": "Rusty industrial broken pipe, metallic, rusted orange and grey, 16-bit pixel art style, transparent background.",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}
